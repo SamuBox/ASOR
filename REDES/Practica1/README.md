@@ -8,14 +8,14 @@
 
 ### Topología
 ![topología](imágenes/topologia.png)
-
-<code> 
+<pre>
+<code>
 netprefix inet
-machine 1 0 0
-machine 2 0 0
-machine 3 0 0 1 1
-machine 4 0 1
-</code>
+machine 1 0 0  
+machine 2 0 0  
+machine 3 0 0 1 1  
+machine 4 0 1  
+</code></pre>
 
 ### Configuración Estática
 *********************** **Ejercicio 1** ***********************
