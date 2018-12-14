@@ -66,7 +66,7 @@ Print network connections, routing tables, interface statis-tics, masquerade con
 *VM1:*
 <pre>
 <code>$nc -l -p 7777
-$netstat -l
+$netstat -ltn
 </code></pre>
 
 Resultado:
